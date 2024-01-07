@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncLoc", "SyncLoc\SyncLoc.csproj", "{FB6409D6-A304-4F9C-9A66-709BE41739EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB6409D6-A304-4F9C-9A66-709BE41739EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6409D6-A304-4F9C-9A66-709BE41739EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6409D6-A304-4F9C-9A66-709BE41739EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6409D6-A304-4F9C-9A66-709BE41739EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D2F8806-FF7E-46E5-AE92-FC25DAD686F6}
+	EndGlobalSection
+EndGlobal
